@@ -1,0 +1,13 @@
+.sql-vs-nosql {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.reasons-list {
+  width: 50%;
+}
+
+.nosql-sample-data {
+  width: 80%;
+}

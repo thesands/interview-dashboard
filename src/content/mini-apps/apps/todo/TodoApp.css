@@ -1,0 +1,42 @@
+.todo-app {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h2 {
+  margin: 0;
+}
+
+.todoForm {
+  width: 100%;
+}
+
+.todoInputBox {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.todoInput {
+  width: 100%;
+  height: 30px;
+}
+
+.todoList {
+  width: 100%;
+  padding: 10px;
+}
+
+.todo {
+  background-color: blue;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}

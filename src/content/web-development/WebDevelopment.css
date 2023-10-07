@@ -1,0 +1,8 @@
+.web-development {
+  font-size: calc(10px + 2vmin);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.http-table {
+  margin: 30px 0;
+  border: 1px solid #ddd;
+  border-bottom: none;
+}
+
+.http-table td, .http-table th {
+  border-bottom: 1px solid #ddd;
+  padding: 10px; 
+  text-align: left;
+}
